@@ -1,0 +1,22 @@
+# Flutter / Dart Caches & Build files
+.dart_tool/
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE & OS Caches
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+__MACOSX/
+.cache/
+.config/
+.local/
+
+# Local databases, logs, and session history
+*.sql
+*.log
+.env
