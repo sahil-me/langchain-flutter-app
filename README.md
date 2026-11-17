@@ -110,14 +110,23 @@ flowchart TD
 The repository organizes the source code into a monorepo structure separating the Flutter client, backend modules, and configuration assets.
 
 ```text
-langchain-flutter-app/
-├── langchain-flutter-app/       # Core Flutter cross-platform mobile/desktop client
-│
-├── .gitignore                   # Global root ignore rules for caches and binaries
-├── CODE_OF_CONDUCT.md           # Community conduct guidelines
-├── CONTRIBUTING.md              # Contribution workflows and guidelines
-├── LICENSE                      # Open-source license terms
-└── README.md                    # Project documentation
+langchain-flutter-app/                           # Core workspace root directory
+├── langchain-flutter-app/                       # Core Flutter cross-platform mobile/desktop client
+│   ├── .dart-tool                               # Dart compiler and tool execution cache
+│   ├── .dart                                    # Local Dart SDK configuration and analysis state
+│   ├── .dartServer / .analysis-driver           # Dart analysis server background driver data
+│   ├── .oh-my-bash                              # Shell environment configuration and prompt utilities
+│   ├── ag-web/                                  # Web and backend service components (FastAPI / Agent tools)
+│   ├── chat_app/                                # Core cross-platform Flutter chat client application
+│   ├── flutter/                                 # Flutter framework modules, SDK files, or CI pipelines
+│   └── bashrc.pre-oh-my-bash                    # Terminal shell backup configuration profile
+│   
+├── .gitignore                                   # Global root ignore rules for caches and binaries
+├── CODE_OF_CONDUCT.md                           # Community conduct guidelines
+├── CONTRIBUTING.md                              # Contribution workflows and guidelines
+├── LICENSE                                      # Open-source license terms
+├── README.md                                    # Project documentation
+└── SECURITY.md                                  # Security vulnerability reporting policy
 ```
 
 > [!NOTE]
