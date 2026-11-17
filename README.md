@@ -211,7 +211,7 @@ langchain-flutter-app/                           # Core workspace root directory
 
 ## Screenshots
 
-This section will showcase the **Flutter chat** interface, agent tool-calling logs, and Google Cloud Run deployment metrics once media assets are uploaded.
+This section will showcase the **Flutter chat** interface, agent tool-calling logs, and Google Cloud Run deployment metrics.
 
 ### Google Cloud Console Home Dashboard
 
