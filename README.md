@@ -213,29 +213,65 @@ langchain-flutter-app/                           # Core workspace root directory
 
 This section will showcase the **Flutter chat** interface, agent tool-calling logs, and Google Cloud Run deployment metrics once media assets are uploaded.
 
-### GCP Console Dashboard
+### Google Cloud Console Home Dashboard
 
+<img width="1366" height="768" alt="Google Cloud Console Home Dashboard" src="https://github.com/user-attachments/assets/425a0b5e-54d4-4386-91b9-27650ad9695d" />
 
+### Google Cloud AI Applications & Search Configuration
 
-### Google Cloud AI Applications Dashboard
-
-
-
-### Agent Search Preview & Query Testing
-
-
-
-### Modernized Website UI & Pages
-
-
+<img width="1366" height="768" alt="AI Application Pipeline and Overview" src="https://github.com/user-attachments/assets/de7258dc-781d-4bba-a363-5c606d8e0ec7" />
+<img width="1366" height="768" alt="Widget Search Configurations and General Settings" src="https://github.com/user-attachments/assets/598fe370-2d5f-467f-aab8-e2786a0b5048" />
+<img width="1366" height="768" alt="Google Shop Structured Data Store" src="https://github.com/user-attachments/assets/a79a4a6d-0c54-4e37-839e-f7c8d76db9f5" />
+<img width="1366" height="768" alt="Indexed Documents and Catalog Records - 1" src="https://github.com/user-attachments/assets/c12f3a56-2b20-4c9c-9c33-d0267e39c2c2" />
+<img width="1366" height="768" alt="Indexed Documents and Catalog Records - 2" src="https://github.com/user-attachments/assets/0c085a65-29af-4fd3-9398-0f4f8f9f23d6" />
+<img width="1366" height="768" alt="Data Store Schema and Field Properties" src="https://github.com/user-attachments/assets/1a9c24e7-b867-46b6-be2f-995cca4a3bce" />
+<img width="1366" height="768" alt="Interactive Search Preview and UI Testing" src="https://github.com/user-attachments/assets/04763cb0-7682-49e0-8d58-1a31756296e5" />
 
 ### Project Source Code
 
+<img width="1366" height="768" alt="Project Source Code - 1" src="https://github.com/user-attachments/assets/cae5e1ff-dbba-4060-a3c2-c129d03c12ee" />
+<img width="1366" height="768" alt="Project Source Code - 2" src="https://github.com/user-attachments/assets/562d3b41-2cba-4439-8463-8e0deaf98f20" />
+<img width="1366" height="768" alt="Project Source Code - 3" src="https://github.com/user-attachments/assets/b72563ee-82bb-4145-b6b0-beb99b0c82a3" />
+<img width="1366" height="768" alt="Project Source Code - 4" src="https://github.com/user-attachments/assets/e991bd77-095d-4b1d-8a08-451f6ba5ed33" />
+<img width="1366" height="767" alt="Project Source Code - 5" src="https://github.com/user-attachments/assets/87ef9783-b8f6-49be-87c7-a74395229c51" />
+<img width="1366" height="768" alt="Project Source Code - 6" src="https://github.com/user-attachments/assets/fc65e3ce-b0a8-4b25-bd76-d3e94c6b292e" />
 
+### Gemini Platform
+
+<img width="1366" height="768" alt="Workbench Notebooks Instance" src="https://github.com/user-attachments/assets/261de0e5-2302-4b7d-a457-23f0b0a1a2c8" />
+<img width="1366" height="768" alt="Workbench Instance System Details" src="https://github.com/user-attachments/assets/6efa8dc2-b895-4d4f-bd95-4a863175f288" />
+<img width="1366" height="768" alt="Workbench Hardware and Machine Type Configuration" src="https://github.com/user-attachments/assets/398774d5-0720-4b23-834a-1923a8dcf41f" />
+<img width="1366" height="768" alt="Workbench Software and Security Settings" src="https://github.com/user-attachments/assets/ee61f9b2-5886-4d5f-8e9f-9f356af51445" />
+<img width="1366" height="768" alt="Workbench Instance Metadata Configuration" src="https://github.com/user-attachments/assets/3b2c258a-2a10-45b6-ad12-64c25c1adcc7" />
+<img width="1366" height="768" alt="Workbench Instance Health and Status Diagnostics" src="https://github.com/user-attachments/assets/ed12c5f9-23c1-49b8-b667-56e9ff75ffc7" />
+<img width="1366" height="768" alt="Workbench Instance Execution Logs" src="https://github.com/user-attachments/assets/10862338-7566-42c4-93d5-6b2f78913880" />
+<img width="1366" height="768" alt="Agent Runtime Deployments - LangChain Shop Agent" src="https://github.com/user-attachments/assets/6e565f12-f967-469f-8c8d-4a95ad6eefc6" />
+
+### JupyterLab Environment
+
+<img width="1366" height="768" alt="Installing SDK and Runtime Kernel" src="https://github.com/user-attachments/assets/943ba032-617c-4188-897e-877c8f0e7754" />
+<img width="1366" height="768" alt="Testing Agent Queries and Outputs" src="https://github.com/user-attachments/assets/41e02ef2-950f-4c24-855c-c8c481fea161" />
+
+### Flutter Chat Interface
+
+<img width="1366" height="768" alt="Empty chat view and input bar" src="https://github.com/user-attachments/assets/3a589a06-becd-4e56-b8ac-d3b1bd28a759" />
+<img width="1366" height="768" alt="Active conversation with AI responses and tool lookups" src="https://github.com/user-attachments/assets/7887f71c-3b1f-4223-8cd4-f22237fa5aae" />
+
+### Agent-Driven E-Commerce Journey
+
+<img width="1366" height="768" alt="Product Page - Chrome Dino Rope Lanyard Overview" src="https://github.com/user-attachments/assets/34edb9d6-db1c-4017-9e1a-add2d8dd6700" />
+<img width="1366" height="768" alt="Product Image Gallery_Close-up Views - 1" src="https://github.com/user-attachments/assets/c6e737eb-4ee2-4f6f-a9ba-e4163ada0644" />
+<img width="1366" height="768" alt="Product Image Gallery_Close-up Views - 2" src="https://github.com/user-attachments/assets/b212a1ba-d111-49fb-bd77-8723bcdaa920" />
+<img width="1366" height="768" alt="E-Commerce UI - Quick Shopping Cart Drawer and Item Summary" src="https://github.com/user-attachments/assets/4d48e7ab-e657-436b-98f3-149e581c1744" />
+<img width="1366" height="768" alt="E-Commerce UI - Shopping Cart Page and Checkout Overview" src="https://github.com/user-attachments/assets/3e1efddc-1b95-4a04-8fa1-0ae70c0e8eb9" />
+<img width="1366" height="768" alt="Instant Answers - Customer Support Chat Widget" src="https://github.com/user-attachments/assets/48e05a83-f1d4-4d5b-8873-9233de7b55a1" />
 
 ### Google Cloud Monitoring & Logging
 
-
+<img width="1366" height="Observability Monitoring - Overview and Logs by Severity" alt="SS34" src="https://github.com/user-attachments/assets/bb26c9b0-9467-432e-937f-0e44ad09c0b7" />
+<img width="1366" height="768" alt="Compute Engine - Observe VMs CPU and Memory Utilization" src="https://github.com/user-attachments/assets/c5f2e00e-e196-460b-8de0-e21d98036681" />
+<img width="1366" height="768" alt="Fleet-wide Treemaps and CPU Utilization by Zone" src="https://github.com/user-attachments/assets/1ff668db-cc57-4c30-b6bd-b419b99f6a89" />
+<img width="1366" height="768" alt="Logs Explorer - Project Logs and Query Results" src="https://github.com/user-attachments/assets/b798077a-8d82-46a2-8cc8-569cc00052e0" />
 
 ---
 
