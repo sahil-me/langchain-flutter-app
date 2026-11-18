@@ -1,8 +1,8 @@
-# 🤖 Langchain Flutter App 🚀
+# 🤖 LangChain Flutter App 🚀
 
 https://github.com/user-attachments/assets/3505e9af-2fe5-4bd0-9767-4ab7b80c7cce
 
-> 🎥 Watch **Langchain Flutter App** in action!
+> 🎥 Watch **LangChain Flutter App** in action!
 
 > [!CAUTION]
 > The Cloud Run deployment is currently unavailable because the Google Cloud project has exhausted its available credits. The project was previously deployed and tested successfully on Google Cloud Run.
@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/3505e9af-2fe5-4bd0-9767-4ab7b80c7cce
 
 ## Introduction
 
-**Langchain Flutter App** is a modern cross-platform mobile and web application developed as part of advanced Google Cloud and generative AI learning experiences. It bridges a responsive Flutter client interface with a powerful serverless backend powered by **LangChain**, **LangGraph**, and **Gemini models**, hosted on **Google Cloud Run**.
+**LangChain Flutter App** is a modern cross-platform mobile and web application developed as part of advanced Google Cloud and generative AI learning experiences. It bridges a responsive Flutter client interface with a powerful serverless backend powered by **LangChain**, **LangGraph**, and **Gemini models**, hosted on **Google Cloud Run**.
 
 The project explores how to build autonomous agentic workflows capable of dynamic tool-calling—specifically leveraging Agent Search over the Google Shop dataset alongside the Wikipedia API to retrieve, synthesize, and present real-time structured retail data and encyclopedic knowledge to users.
 
@@ -110,8 +110,8 @@ flowchart TD
 The repository organizes the source code into a monorepo structure separating the Flutter client, backend modules, and configuration assets.
 
 ```text
-langchain-flutter-app/                           # Core workspace root directory
-├── langchain-flutter-app/                       # Core Flutter cross-platform mobile/desktop client
+LangChain-flutter-app/                           # Core workspace root directory
+├── LangChain-flutter-app/                       # Core Flutter cross-platform mobile/desktop client
 │   ├── .dart-tool                               # Dart compiler and tool execution cache
 │   ├── .dart                                    # Local Dart SDK configuration and analysis state
 │   ├── .dartServer / .analysis-driver           # Dart analysis server background driver data
@@ -134,7 +134,7 @@ langchain-flutter-app/                           # Core workspace root directory
 
 ### Key Components
 
-- **`langchain-flutter-app/`** — Core Flutter project directory containing screens, state logic, and client widgets.
+- **`LangChain-flutter-app/`** — Core Flutter project directory containing screens, state logic, and client widgets.
 - **`chat_app/`** & **`ag-web/`** — Companion service and web interface modules supporting agent interaction workflows.
 - **`Dockerfile`** — Configuration to containerize the application for serverless deployment on Cloud Run.
 - **`.gitignore`** — Excludes local build caches (`.dart_tool`, `.pub-cache`), environment files, and IDE metadata from version control.
@@ -179,7 +179,7 @@ langchain-flutter-app/                           # Core workspace root directory
 
 ## Application Workflow
 
-**Langchain Flutter App** is structured around intuitive user interactions and autonomous agent execution loops.
+**LangChain Flutter App** is structured around intuitive user interactions and autonomous agent execution loops.
 
 ### 1️⃣ Environment & Dependency Setup
 
@@ -295,7 +295,7 @@ This section will showcase the **Flutter chat** interface, agent tool-calling lo
 
 AI tools can support the development and exploration of modern generative AI applications by helping explain unfamiliar code, investigate implementation issues, understand agent architectures, and improve technical documentation.
 
-During the development and learning process for Langchain Flutter App, AI assistance may be used to support activities such as:
+During the development and learning process for LangChain Flutter App, AI assistance may be used to support activities such as:
 
 - Understanding LangChain agent executors, custom tool definitions, and tool-calling schemas.
 - Exploring Flutter state management and asynchronous chat stream rendering.
@@ -333,7 +333,7 @@ For official learning objectives, instructions, and environment setup requiremen
 
 ## Future Enhancements
 
-The following ideas could be considered for future versions of **Langchain Flutter App**:
+The following ideas could be considered for future versions of **LangChain Flutter App**:
 
 - **Chat History Persistence:** Add local SQLite or cloud database storage to maintain chat sessions across app launches.
 - **Voice Input Support:** Integrate speech-to-text for hands-free conversational agent queries.
@@ -365,7 +365,7 @@ The following ideas could be considered for future versions of **Langchain Flutt
 
 ## Disclaimer
 
-**Langchain Flutter App** is a learning and demonstration project associated with Google Cloud training.
+**LangChain Flutter App** is a learning and demonstration project associated with Google Cloud training.
 
 The project utilizes third-party technologies and services, including Google Cloud Run, Vertex AI, Gemini, LangChain, and external APIs. The availability, functionality, pricing, and policies of external cloud services are subject to their respective providers' terms.
 
@@ -377,7 +377,7 @@ This repository is intended for educational and demonstration purposes. Do not c
 
 ## Contributing
 
-Contributions are welcome! If you would like to improve **Langchain Flutter App**, fix a bug, add tests, or improve the documentation, please review the following guidelines:
+Contributions are welcome! If you would like to improve **LangChain Flutter App**, fix a bug, add tests, or improve the documentation, please review the following guidelines:
 
 - [Contributing Guide](./CONTRIBUTING.md)
 - [Code of Conduct](./CODE_OF_CONDUCT.md)
@@ -399,4 +399,4 @@ See the [LICENSE](./LICENSE) file for details.
 
 [**Sahil Sharma**](https://github.com/sahil-me)
 
-Thank you for exploring **Langchain Flutter App**! If you find the project useful, consider giving the repository a ⭐ to show your support.
+Thank you for exploring **LangChain Flutter App**! If you find the project useful, consider giving the repository a ⭐ to show your support.
